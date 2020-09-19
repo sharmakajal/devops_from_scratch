@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.testclass.UnitIntegrationTests">
+        <methods>
+          <include name="mandatoryAfterMethod"/>
+          <include name="setup"/>
+          <include name="afterclass"/>
+          <include name="TS_ValidateLoginUserPerformActions"/>
+          <include name="TS_ValidateLogoutUser"/>
+          <include name="BeforeEachMehtod"/>
+          <include name="TS_ValidateAlltheLinks"/>
+          <include name="TS_ValidateCreateUser"/>
+          <include name="TS_ValidateTheHomePageShopEasy"/>
+          <include name="TS_ValidateLoginUser"/>
+        </methods>
+      </class> <!-- com.testclass.UnitIntegrationTests -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-19T19:10:53Z" name="Suite" finished-at="2020-09-19T19:12:44Z" duration-ms="110807">
+    <groups>
+    </groups>
+    <test started-at="2020-09-19T19:10:53Z" name="Test" finished-at="2020-09-19T19:12:44Z" duration-ms="110807">
+      <class name="com.testclass.UnitIntegrationTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testclass.UnitIntegrationTests@16610890]" started-at="2020-09-20T00:40:53Z" name="setup" finished-at="2020-09-20T00:40:59Z" duration-ms="6564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="BeforeEachMehtod(java.lang.reflect.Method)[pri:0, instance:com.testclass.UnitIntegrationTests@16610890]" started-at="2020-09-20T00:40:59Z" name="BeforeEachMehtod" finished-at="2020-09-20T00:41:00Z" duration-ms="67" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testclass.UnitIntegrationTests.TS_ValidateTheHomePageShopEasy()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeEachMehtod -->
+        <test-method signature="TS_ValidateTheHomePageShopEasy()[pri:1, instance:com.testclass.UnitIntegrationTests@16610890]" started-at="2020-09-20T00:41:00Z" name="TS_ValidateTheHomePageShopEasy" finished-at="2020-09-20T00:41:10Z" duration-ms="10072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS_ValidateTheHomePageShopEasy -->
+        <test-method is-config="true" signature="mandatoryAfterMethod(org.testng.ITestResult)[pri:0, instance:com.testclass.UnitIntegrationTests@16610890]" started-at="2020-09-20T00:41:10Z" name="mandatoryAfterMethod" finished-at="2020-09-20T00:41:10Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TS_ValidateTheHomePageShopEasy status=SUCCESS method=UnitIntegrationTests.TS_ValidateTheHomePageShopEasy()[pri:1, instance:com.testclass.UnitIntegrationTests@16610890] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mandatoryAfterMethod -->
+        <test-method is-config="true" signature="BeforeEachMehtod(java.lang.reflect.Method)[pri:0, instance:com.testclass.UnitIntegrationTests@16610890]" started-at="2020-09-20T00:41:10Z" name="BeforeEachMehtod" finished-at="2020-09-20T00:41:10Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testclass.UnitIntegrationTests.TS_ValidateAlltheLinks()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeEachMehtod -->
+        <test-method signature="TS_ValidateAlltheLinks()[pri:2, instance:com.testclass.UnitIntegrationTests@16610890]" started-at="2020-09-20T00:41:10Z" name="TS_ValidateAlltheLinks" finished-at="2020-09-20T00:41:40Z" duration-ms="30495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS_ValidateAlltheLinks -->
+        <test-method is-config="true" signature="BeforeEachMehtod(java.lang.reflect.Method)[pri:0, instance:com.testclass.UnitIntegrationTests@16610890]" started-at="2020-09-20T00:41:40Z" name="BeforeEachMehtod" finished-at="2020-09-20T00:41:40Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testclass.UnitIntegrationTests.TS_ValidateCreateUser()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeEachMehtod -->
+        <test-method is-config="true" signature="mandatoryAfterMethod(org.testng.ITestResult)[pri:0, instance:com.testclass.UnitIntegrationTests@16610890]" started-at="2020-09-20T00:41:40Z" name="mandatoryAfterMethod" finished-at="2020-09-20T00:41:40Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TS_ValidateAlltheLinks status=SUCCESS method=UnitIntegrationTests.TS_ValidateAlltheLinks()[pri:2, instance:com.testclass.UnitIntegrationTests@16610890] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mandatoryAfterMethod -->
+        <test-method signature="TS_ValidateCreateUser()[pri:3, instance:com.testclass.UnitIntegrationTests@16610890]" started-at="2020-09-20T00:41:40Z" name="TS_ValidateCreateUser" finished-at="2020-09-20T00:41:59Z" duration-ms="19265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS_ValidateCreateUser -->
+        <test-method is-config="true" signature="mandatoryAfterMethod(org.testng.ITestResult)[pri:0, instance:com.testclass.UnitIntegrationTests@16610890]" started-at="2020-09-20T00:41:59Z" name="mandatoryAfterMethod" finished-at="2020-09-20T00:41:59Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TS_ValidateCreateUser status=SUCCESS method=UnitIntegrationTests.TS_ValidateCreateUser()[pri:3, instance:com.testclass.UnitIntegrationTests@16610890] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mandatoryAfterMethod -->
+        <test-method is-config="true" signature="BeforeEachMehtod(java.lang.reflect.Method)[pri:0, instance:com.testclass.UnitIntegrationTests@16610890]" started-at="2020-09-20T00:41:59Z" name="BeforeEachMehtod" finished-at="2020-09-20T00:41:59Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testclass.UnitIntegrationTests.TS_ValidateLoginUser()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeEachMehtod -->
+        <test-method signature="TS_ValidateLoginUser()[pri:4, instance:com.testclass.UnitIntegrationTests@16610890]" started-at="2020-09-20T00:41:59Z" name="TS_ValidateLoginUser" finished-at="2020-09-20T00:42:16Z" duration-ms="16812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS_ValidateLoginUser -->
+        <test-method is-config="true" signature="BeforeEachMehtod(java.lang.reflect.Method)[pri:0, instance:com.testclass.UnitIntegrationTests@16610890]" started-at="2020-09-20T00:42:16Z" name="BeforeEachMehtod" finished-at="2020-09-20T00:42:16Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testclass.UnitIntegrationTests.TS_ValidateLoginUserPerformActions()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeEachMehtod -->
+        <test-method is-config="true" signature="mandatoryAfterMethod(org.testng.ITestResult)[pri:0, instance:com.testclass.UnitIntegrationTests@16610890]" started-at="2020-09-20T00:42:16Z" name="mandatoryAfterMethod" finished-at="2020-09-20T00:42:16Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TS_ValidateLoginUser status=SUCCESS method=UnitIntegrationTests.TS_ValidateLoginUser()[pri:4, instance:com.testclass.UnitIntegrationTests@16610890] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mandatoryAfterMethod -->
+        <test-method signature="TS_ValidateLoginUserPerformActions()[pri:5, instance:com.testclass.UnitIntegrationTests@16610890]" started-at="2020-09-20T00:42:16Z" name="TS_ValidateLoginUserPerformActions" finished-at="2020-09-20T00:42:22Z" duration-ms="5406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS_ValidateLoginUserPerformActions -->
+        <test-method is-config="true" signature="mandatoryAfterMethod(org.testng.ITestResult)[pri:0, instance:com.testclass.UnitIntegrationTests@16610890]" started-at="2020-09-20T00:42:22Z" name="mandatoryAfterMethod" finished-at="2020-09-20T00:42:22Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TS_ValidateLoginUserPerformActions status=SUCCESS method=UnitIntegrationTests.TS_ValidateLoginUserPerformActions()[pri:5, instance:com.testclass.UnitIntegrationTests@16610890] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mandatoryAfterMethod -->
+        <test-method is-config="true" signature="BeforeEachMehtod(java.lang.reflect.Method)[pri:0, instance:com.testclass.UnitIntegrationTests@16610890]" started-at="2020-09-20T00:42:22Z" name="BeforeEachMehtod" finished-at="2020-09-20T00:42:22Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testclass.UnitIntegrationTests.TS_ValidateLogoutUser()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeEachMehtod -->
+        <test-method signature="TS_ValidateLogoutUser()[pri:6, instance:com.testclass.UnitIntegrationTests@16610890]" started-at="2020-09-20T00:42:22Z" name="TS_ValidateLogoutUser" finished-at="2020-09-20T00:42:26Z" duration-ms="4201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS_ValidateLogoutUser -->
+        <test-method is-config="true" signature="mandatoryAfterMethod(org.testng.ITestResult)[pri:0, instance:com.testclass.UnitIntegrationTests@16610890]" started-at="2020-09-20T00:42:26Z" name="mandatoryAfterMethod" finished-at="2020-09-20T00:42:26Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TS_ValidateLogoutUser status=SUCCESS method=UnitIntegrationTests.TS_ValidateLogoutUser()[pri:6, instance:com.testclass.UnitIntegrationTests@16610890] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mandatoryAfterMethod -->
+        <test-method is-config="true" signature="BeforeEachMehtod(java.lang.reflect.Method)[pri:0, instance:com.testclass.UnitIntegrationTests@16610890]" started-at="2020-09-20T00:42:26Z" name="BeforeEachMehtod" finished-at="2020-09-20T00:42:26Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testclass.UnitIntegrationTests.TS_ValidateContactUsPage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeEachMehtod -->
+        <test-method signature="TS_ValidateContactUsPage()[pri:7, instance:com.testclass.UnitIntegrationTests@16610890]" started-at="2020-09-20T00:42:26Z" name="TS_ValidateContactUsPage" finished-at="2020-09-20T00:42:43Z" duration-ms="17069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS_ValidateContactUsPage -->
+        <test-method is-config="true" signature="mandatoryAfterMethod(org.testng.ITestResult)[pri:0, instance:com.testclass.UnitIntegrationTests@16610890]" started-at="2020-09-20T00:42:43Z" name="mandatoryAfterMethod" finished-at="2020-09-20T00:42:43Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TS_ValidateContactUsPage status=SUCCESS method=UnitIntegrationTests.TS_ValidateContactUsPage()[pri:7, instance:com.testclass.UnitIntegrationTests@16610890] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mandatoryAfterMethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:com.testclass.UnitIntegrationTests@16610890]" started-at="2020-09-20T00:42:43Z" name="afterclass" finished-at="2020-09-20T00:42:44Z" duration-ms="832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- com.testclass.UnitIntegrationTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
